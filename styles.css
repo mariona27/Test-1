@@ -11,7 +11,7 @@ body {
   
   .chat-column {
     flex: 1;
-    background-color: #f0f0f0;
+    background-color: #e50d0d;
     overflow-y: auto;
   }
   
@@ -63,7 +63,7 @@ body {
   
   button {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: hsl(350, 100%, 50%);
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -71,6 +71,6 @@ body {
   }
   
   button:hover {
-    background-color: #0056b3;
+    background-color: #c51919;
   }
   
